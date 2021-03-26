@@ -1,0 +1,16 @@
+{
+    "weights" : "weights/yolov5s.pt",
+    "device" : "cpu",
+    "source" : "images",
+    "output" : "results",
+    "imgsz" : 640,
+    "conf_thres" : 0.5,
+    "iou_thres" : 0.45,
+    "view_img" : false,
+    "save_img" : true,
+    "save_txt" : true,
+    "classes" : null,
+    "agnostic_nms" : false,
+    "augment" : false,
+    "update" : false
+}
