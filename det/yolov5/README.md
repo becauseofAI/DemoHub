@@ -6,9 +6,9 @@
 - cv2(pip install opencv-python)
 - others(pip install xxx)
 - PyTorch>=1.0(1.7 is tested)
-> installation instructions: https://pytorch.org/get-started/previous-versions/
+> PyTorch installation instructions: https://pytorch.org/get-started/previous-versions/
 
 ## Run
-'''python
+```python
 python main.py
-'''
+```
